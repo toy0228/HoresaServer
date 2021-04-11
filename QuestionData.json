@@ -7,7 +7,7 @@
       "C"
     ],
     "correctAnswerIndex": 0,
-    "feedback": "Oh No! You Got The Wrong Horse!."
+    "feedback": "Did you get the right horse?."
   },
    {
     "question": "Choose A Horse!",
@@ -17,6 +17,6 @@
       "C"
     ],
     "correctAnswerIndex": 0,
-    "feedback": "Oh No! You Got The Wrong Horse!."
+    "feedback": "Did you get the right horse?."
   }
 ]
