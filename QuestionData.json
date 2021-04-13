@@ -199,4 +199,64 @@
     "correctAnswerIndex": 2,
     "feedback": "Did you get the right horse?."
   },
+     {
+    "question": "Choose A Horse!",
+    "answers": [
+      "Horse A; Snickey",
+      "B; Bickey",
+      "C; Waypie"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "Did you get the right horse?."
+  },
+     {
+    "question": "Choose A Horse!",
+    "answers": [
+      "Horse A; Snickey",
+      "B; Bickey",
+      "C; Waypie"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "Did you get the right horse?."
+  },
+     {
+    "question": "Choose A Horse!",
+    "answers": [
+      "Horse A; Snickey",
+      "B; Bickey",
+      "C; Waypie"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Did you get the right horse?."
+  },
+     {
+    "question": "Choose A Horse!",
+    "answers": [
+      "Horse A; Snickey",
+      "B; Bickey",
+      "C; Waypie"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "Did you get the right horse?."
+  },
+     {
+    "question": "Choose A Horse!",
+    "answers": [
+      "Horse A; Snickey",
+      "B; Bickey",
+      "C; Waypie"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "Did you get the right horse?."
+  },
+     {
+    "question": "Choose A Horse!",
+    "answers": [
+      "Horse A; Snickey",
+      "B; Bickey",
+      "C; Waypie"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "Did you get the right horse?."
+  }
 ]
