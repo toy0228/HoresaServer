@@ -1,12 +1,5 @@
 [
-  
-  // Server 24 Hours Check in - For Server Networking Service.
-  
-  // App Edited in macOS
-  // Server exported using Windows and Linux.
-  
-  // Server 2021 © by HorseaE Server 2021.
-   // Update ONLY coming soon for version 5.1 OR 2021.5.7 (* New Release Coming Soon.)
+
   {
     "question": "Choose A Horse!",
     "answers": [
