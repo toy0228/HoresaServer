@@ -258,5 +258,15 @@
     ],
     "correctAnswerIndex": 1,
     "feedback": "Did you get the right horse?."
+  },
+    {
+    "question": "Choose A Horse!",
+    "answers": [
+      "Bikny",
+      "whicky",
+      "Blury"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "Did you get the right horse?."
   }
 ]
